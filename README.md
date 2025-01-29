@@ -1,4 +1,4 @@
-<p align="center"><img width="600" src="https://github.com/waechtler-hannes/waechtler-hannes/blob/main/profile-banner.gif"></p>
+<p align="center"><img width="700" src="https://github.com/waechtler-hannes/waechtler-hannes/blob/main/profile-banner.gif"></p>
 <br>
 <p>I am a software development student from Germany and interested in JavaScript, but I'm also <strong>open to learning other languages ​​and technologies.</strong></p>
 <br>
