@@ -22,5 +22,5 @@
 </div>
 <h3>Contact me (click badge)</h3>
 <div>
-<a href="mailto:waechtler.hannes@gmail.com"><img height="25" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"></a>    <a href="https://www.linkedin.com/in/hannes-w%C3%A4chtler-884989345/"><img height="25" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+<a href="mailto:waechtler.hannes@gmail.com"><img height="25" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"></a>    <a href="https://www.linkedin.com/in/waechtler-hannes/"><img height="25" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
 </div>
