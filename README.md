@@ -6,7 +6,7 @@
 <h3>About me</h3>
 <ul>
   <li>📖 I've been learning a lot about JavaScript, HTML, CSS, git and Linux lately, you can follow my learning journey in my <a href="https://github.com/waechtler-hannes?tab=repositories">repositories</a></li>
-  <li>📄 Latest project: <a href="https://github.com/waechtler-hannes/tic-tac-toe">Tic Tac Toe</a></li>
+  <li>📄 Latest project: <a href="https://github.com/waechtler-hannes/board-gamer-app">Board Gamer App</a></li>
   <li>🌱 Currently learning mobile softwate engineering</li>
   <li>👯 Looking for a working student job in software development</li>
 </ul>
