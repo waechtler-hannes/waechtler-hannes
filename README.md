@@ -20,6 +20,10 @@
 <div>
 <img height="25" src="https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white">   <img height="25" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">   <img height="25" src="https://img.shields.io/badge/GIT-e34c26?style=flat&logo=git&logoColor=white">   <img height="25" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
 </div>
+<h3>Frameworks I have used</h3>
+<div>
+<img height="25" src="https://img.shields.io/badge/React_Native-20232A%3F?style=flat&logo=react&logoColor=61DAFB&color=%20%2320232a">
+</div>
 <h3>Contact me (click badge)</h3>
 <div>
 <a href="mailto:waechtler.hannes@gmail.com"><img height="25" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"></a>    <a href="https://www.linkedin.com/in/waechtler-hannes/"><img height="25" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
