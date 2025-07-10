@@ -7,8 +7,8 @@
 <ul>
   <li>📖 I've been learning a lot about JavaScript, HTML, CSS, git and Linux lately, you can follow my learning journey in my <a href="https://github.com/waechtler-hannes?tab=repositories">repositories</a></li>
   <li>📄 Latest project: <a href="https://github.com/waechtler-hannes/board-gamer-app">Board Gamer App</a></li>
-  <li>🌱 Currently learning mobile softwate engineering</li>
-  <li>👯 Looking for a working student job in software development</li>
+  <li>🌱 Currently learning about clean code and refactoring</li>
+  <li>👯 Looking for a part-time job in software development</li>
 </ul>
 <hr>
 <br>
