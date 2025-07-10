@@ -16,13 +16,13 @@
 <div>
   <img height="25" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">   <img height="25" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E">   <img height="25" src="https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white">   <img height="25" src="https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white">
 </div>
+<h3>Frameworks I have used</h3>
+<div>
+<img height="25" src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react">
+</div>
 <h3>Tools I have used</h3>
 <div>
 <img height="25" src="https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white">   <img height="25" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">   <img height="25" src="https://img.shields.io/badge/GIT-e34c26?style=flat&logo=git&logoColor=white">   <img height="25" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
-</div>
-<h3>Frameworks I have used</h3>
-<div>
-<img height="25" src="https://img.shields.io/badge/React_Native-20232A%3F?style=flat&logo=react&logoColor=61DAFB&color=%20%2320232a">
 </div>
 <h3>Contact me (click badge)</h3>
 <div>
